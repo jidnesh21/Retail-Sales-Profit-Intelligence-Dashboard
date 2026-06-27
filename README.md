@@ -14,7 +14,7 @@ Retail businesses often track sales growth as a primary success metric, but risi
 - Sales by sub-category and ship mode
 - Region / City / State filters
 
-![Page 1 - Overview](screenshots/page1-overview.png)
+![Page 1 - Overview](Dashboard_overview.png)
 
 ### Page 2 — Performance Deep-Dive
 - KPIs: Profit Margin %, YoY Sales Growth, YoY Profit Growth
@@ -24,7 +24,7 @@ Retail businesses often track sales growth as a primary success metric, but risi
 - Drillthrough from Page 1's sub-category chart into filtered product-level detail
 - Synced filters across both pages
 
-![Page 2 - Performance Deep-Dive](screenshots/page2-deep-dive.png)
+![Page 2 - Performance Deep-Dive](Performance_deep_dive.png)
 
 ## Key insights
 
