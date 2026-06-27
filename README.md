@@ -46,7 +46,7 @@ Built on the publicly available **Superstore** retail dataset (sales, profit, di
 ## Files
 
 - `dashboard.pbix` — the full Power BI file
-- `screenshots/` — exported views of both dashboard pages
+- `Dashboard_overview.png`,`Performance_deep_dive.png` — exported views of both dashboard pages
 
 ---
 Built by [jidnesh21](https://github.com/jidnesh21)
