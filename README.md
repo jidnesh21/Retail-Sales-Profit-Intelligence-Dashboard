@@ -42,10 +42,11 @@ Retail businesses often track sales growth as a primary success metric, but risi
 ## Dataset
 
 Built on the publicly available **Superstore** retail dataset (sales, profit, discount, and order-level data across U.S. regions).
+The raw dataset (`Sample - Superstore.csv`) is included in this repo for reproducibility.
 
 ## Files
 
-- `dashboard.pbix` — the full Power BI file
+- `sales_dashboard.pbix` — the full Power BI file
 - `Dashboard_overview.png`,`Performance_deep_dive.png` — exported views of both dashboard pages
 
 ---
